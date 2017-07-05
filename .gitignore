@@ -9,3 +9,7 @@
 
 
 
+# for debug
+**/*.exe
+**/*.tar
+
