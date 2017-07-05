@@ -1,0 +1,11 @@
+# for virtual studio
+**/.vs
+**/debug/
+**/release/
+
+# for other IDE
+**/**.bak
+**/**~
+
+
+
